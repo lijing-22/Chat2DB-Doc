@@ -1,4 +1,11 @@
 {
+  "drop-all-tables-in-postgresql" : "How to Efficiently Drop All Tables in PostgreSQL Database",
+  "migrate-postgresql-database-to-supabase" : "How to Seamlessly Migrate Your PostgreSQL Database to Supabase",
+  "manage-supabase-cron-jobs" : "How to Schedule and Manage Supabase Cron Jobs Effectively",
+  "top-tips-postgresql-primary-key" : "Top Tips for Choosing the Right PostgreSQL Primary Key",
+  "tips-for-cascading-in-sql" : "Essential Tips for Implementing Cascading in SQL Effectively",
+  "set-up-supabase-mcp-server" : "How to Set Up a Supabase MCP Server for Your Projects",
+  "tips-for-sql-drop-table-statement" : "Essential Tips for Using the SQL DROP TABLE Statement Effectively",
   "sharding-vs-partitioning-differences" : "Sharding vs Partitioning: Key Differences and Best Practices for Database Management",
   "real-time-data-warehouse" : "How to Build an Efficient Real-Time Data Warehouse: Essential Steps and Best Practices",
   "distributed-data" : "Understanding Distributed Data: Key Concepts and Best Practices",
