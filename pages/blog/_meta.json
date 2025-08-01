@@ -1,4 +1,5 @@
 {
+  "enable-ssl-psql-secure-postgresql": "How to Enable SSL in psql for Secure PostgreSQL Connections",
   "postgresql-data-types-guide": "PostgreSQL Data Types: A Practical Guide for Developers",
   "percona-postgresql-performance-tips": "Percona PostgreSQL: Enterprise-Grade Performance & High Availability",
   "python-postgresql-psycopg2-connection-guide": "How to Connect Python to PostgreSQL with Psycopg2",
