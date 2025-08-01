@@ -1,4 +1,5 @@
 {
+  "postgresql-data-types-guide": "PostgreSQL Data Types: A Practical Guide for Developers",
   "percona-postgresql-performance-tips": "Percona PostgreSQL: Enterprise-Grade Performance & High Availability",
   "python-postgresql-psycopg2-connection-guide": "How to Connect Python to PostgreSQL with Psycopg2",
   "aws-postgresql-managed-database-benefits-best-practices": "AWS PostgreSQL: Managed Database Benefits & Best Practices",
