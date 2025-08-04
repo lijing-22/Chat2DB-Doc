@@ -37,11 +37,11 @@ CREATE TABLE Students (
 
 While all **candidate keys** are super keys, not all super keys are candidate keys. A candidate key is the smallest possible super key with no redundant attributes. For instance:  
 
-| Super Key          | Candidate Key? | Reason                     |  
-|--------------------|----------------|----------------------------|  
-| {student_id, email}| No             | Contains redundant email   |  
-| {student_id}       | Yes            | Minimal and unique         |  
-| {email}            | Yes            | Minimal and unique         |  
+| Super Key             | Candidate Key? | Reason                  |
+|-----------------------|----------------|-------------------------|
+| `{student_id, email}` | No             | Contains redundant email|
+| `{student_id}`        | Yes            | Minimal and unique      |
+| `{email}`             | Yes            | Minimal and unique      |
 
 ## The Role of Super Keys in Database Uniqueness  
 
